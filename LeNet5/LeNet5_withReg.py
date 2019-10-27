@@ -2,7 +2,7 @@ import tensorflow as tf
 import numpy as np 
 from functools import partial
 from tensorflow.keras import Model, Sequential
-from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense
+from tensorflow.keras.layers import Conv2D, MaxPooling2D, Flatten, Dense, Dropout
 
 # set up GPU as the first GPU
 physical_devices = tf.config.experimental.list_physical_devices('GPU') 
@@ -78,8 +78,10 @@ if __name__ == "__main__":
 
     model = Sequential()
     model.add(ConvReg2D(num_kernel=6, kernel_size=(5,5), stride=1, kernel_regularizer=l2_reg()))
+    model.add(Dropout(0.2))
     model.add(MaxPooling2D(pool_size=(2, 2)))
     model.add(ConvReg2D(num_kernel=16, kernel_size=(5,5), stride=1, kernel_regularizer=l2_reg()))
+    model.add(Dropout(0.2))
     model.add(MaxPooling2D(pool_size=(2, 2)))
     model.add(Flatten())
     model.add(Dense(120, activation='relu'))
