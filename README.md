@@ -1,5 +1,5 @@
 # deep_learning_py
-building deep learning algorithm and apply them on real-life problem-solving 
+building and understanding deep learning 
 
 1. Neural networks code with l1 and l2 penalty build on numpy, and then tested on mnist dataset. The code was created on Jupyter notebook and the .py version was automatically translated by VScode: https://github.com/ramenwang/deep_learning_py/tree/master/vanilla_ann
 
@@ -18,4 +18,5 @@ The implementation is on mnist dataset which is provided by tf.keras
     3. lowess implementation
     https://github.com/ramenwang/deep_learning_py/blob/master/lm_algorithms/lowess.ipynb
     
-    
+4. A study of weight initialization in deep learning (implemented on Google Colab)
+https://github.com/ramenwang/deep_learning_py/weight_initialization/Weight_Initialization_Study
