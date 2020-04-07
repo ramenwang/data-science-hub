@@ -40,4 +40,4 @@ https://github.com/ramenwang/deep_learning_py/weight_initialization/Weight_Initi
 
 1. [Data Science Knowledge Dictionary - my own summarization on how (spatial) data scientist should know](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/data-science-knowledge-dictionary.ipynb)
 
-2. [Trending Data Science Paper](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/papers.ipynb)
+2. [Trending Data Science Paper](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/papers)
