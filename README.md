@@ -1,5 +1,5 @@
-# Deep-Learning with Python
-building and understanding deep learning 
+# Data-Science-Hub
+The hub for hosting DS knowledge presentations, projects and applications, and course content
 
 ## [DS Knowledge Summary](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge)
 
