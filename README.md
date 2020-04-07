@@ -21,6 +21,14 @@ The implementation is on mnist dataset which is provided by tf.keras
 4. A study of weight initialization in deep learning (implemented on Google Colab)
 https://github.com/ramenwang/deep_learning_py/weight_initialization/Weight_Initialization_Study
 
+
+# [DS Knowledge Summary](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge)
+
+1. [Data Science Knowledge Dictionary - my own summarization on how (spatial) data scientist should know](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/data-science-knowledge-dictionary.ipynb)
+
+2. [Trending Data Science Paper](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/papers)
+
+
 # [Coursera Course Content](https://github.com/ramenwang/deep_learning_py/tree/master/Coursera)
 
 1. [IBM AI Engineering Capstone Project](https://github.com/ramenwang/deep_learning_py/tree/master/Coursera/AI_engineering_capstone)
@@ -36,8 +44,3 @@ https://github.com/ramenwang/deep_learning_py/weight_initialization/Weight_Initi
 5. [Apache Spark Course Content](https://github.com/ramenwang/deep_learning_py/tree/master/Coursera/Coursera-Spark)
     suggest using free IBM Data Platform to practice spark
 
-# [DS Knowledge Summary](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge)
-
-1. [Data Science Knowledge Dictionary - my own summarization on how (spatial) data scientist should know](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/data-science-knowledge-dictionary.ipynb)
-
-2. [Trending Data Science Paper](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/papers)
