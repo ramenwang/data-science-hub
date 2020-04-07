@@ -36,5 +36,8 @@ https://github.com/ramenwang/deep_learning_py/weight_initialization/Weight_Initi
 5. [Apache Spark Course Content](https://github.com/ramenwang/deep_learning_py/tree/master/Coursera/Coursera-Spark)
     suggest using free IBM Data Platform to practice spark
 
-
 # [DS Knowledge Summary](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge)
+
+1. [Data Science Knowledge Dictionary - my own summarization on how (spatial) data scientist should know](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/data-science-knowledge-dictionary.ipynb)
+
+2. [Trending Data Science Paper](https://github.com/ramenwang/deep_learning_py/tree/master/ds_knowledge/papers.ipynb)
